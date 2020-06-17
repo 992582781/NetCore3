@@ -1,0 +1,11 @@
+D:\WorkSelf\RongKangBusiness\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.deps.json
+D:\WorkSelf\RongKangBusiness\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.dll
+D:\WorkSelf\RongKangBusiness\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.pdb
+D:\WorkSelf\RongKangBusiness\RongKangBusiness\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.deps.json
+D:\WorkSelf\RongKangBusiness\RongKangBusiness\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.dll
+D:\WorkSelf\RongKangBusiness\RongKangBusiness\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.pdb
+D:\WorkSelf\RongKangBusiness\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.csproj.CoreCompileInputs.cache
+D:\WorkSelf\RongKangBusiness\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfoInputs.cache
+D:\WorkSelf\RongKangBusiness\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfo.cs
+D:\WorkSelf\RongKangBusiness\UnitOfWork\obj\Debug\netcoreapp3.1\RongKang.UnitOfWork.dll
+D:\WorkSelf\RongKangBusiness\UnitOfWork\obj\Debug\netcoreapp3.1\RongKang.UnitOfWork.pdb

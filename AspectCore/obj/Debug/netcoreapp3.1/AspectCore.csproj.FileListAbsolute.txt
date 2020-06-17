@@ -1,0 +1,12 @@
+D:\WorkSelf\RongKangBusiness\AspectCore\bin\Debug\netcoreapp3.1\RongKang.AspectCore.deps.json
+D:\WorkSelf\RongKangBusiness\AspectCore\bin\Debug\netcoreapp3.1\RongKang.AspectCore.dll
+D:\WorkSelf\RongKangBusiness\AspectCore\bin\Debug\netcoreapp3.1\RongKang.AspectCore.pdb
+D:\WorkSelf\RongKangBusiness\AspectCore\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.dll
+D:\WorkSelf\RongKangBusiness\AspectCore\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.pdb
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\AspectCore.csprojAssemblyReference.cache
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\AspectCore.csproj.CoreCompileInputs.cache
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\AspectCore.AssemblyInfoInputs.cache
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\AspectCore.AssemblyInfo.cs
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\AspectCore.csproj.CopyComplete
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\RongKang.AspectCore.dll
+D:\WorkSelf\RongKangBusiness\AspectCore\obj\Debug\netcoreapp3.1\RongKang.AspectCore.pdb

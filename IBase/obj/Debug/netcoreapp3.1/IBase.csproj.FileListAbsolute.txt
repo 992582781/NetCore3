@@ -1,0 +1,9 @@
+D:\WorkSelf\RongKangBusiness\IBase\bin\Debug\netcoreapp3.1\RongKang.IBase.deps.json
+D:\WorkSelf\RongKangBusiness\IBase\bin\Debug\netcoreapp3.1\RongKang.IBase.dll
+D:\WorkSelf\RongKangBusiness\IBase\bin\Debug\netcoreapp3.1\RongKang.IBase.pdb
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\IBase.csprojAssemblyReference.cache
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\IBase.csproj.CoreCompileInputs.cache
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\IBase.AssemblyInfoInputs.cache
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\IBase.AssemblyInfo.cs
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\RongKang.IBase.dll
+D:\WorkSelf\RongKangBusiness\IBase\obj\Debug\netcoreapp3.1\RongKang.IBase.pdb

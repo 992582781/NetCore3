@@ -1,0 +1,16 @@
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.IRepository.deps.json
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.IRepository.dll
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.IRepository.pdb
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.AspectCore.dll
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.IBase.dll
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.dll
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.AspectCore.pdb
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.IBase.pdb
+D:\WorkSelf\RongKangBusiness\IRepository\bin\Debug\netcoreapp3.1\RongKang.UnitOfWork.pdb
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\IRepository.csprojAssemblyReference.cache
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CoreCompileInputs.cache
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\RongKang.IRepository.dll
+D:\WorkSelf\RongKangBusiness\IRepository\obj\Debug\netcoreapp3.1\RongKang.IRepository.pdb

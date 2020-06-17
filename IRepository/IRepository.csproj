@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>RongKang.IRepository</AssemblyName>
+    <RootNamespace>RongKang.IRepository</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspectCore\AspectCore.csproj" />
+    <ProjectReference Include="..\IBase\IBase.csproj" />
+  </ItemGroup>
+
+</Project>

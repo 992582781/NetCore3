@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RongKang.IBase/1.0.0": {
+        "runtime": {
+          "RongKang.IBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RongKang.IBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

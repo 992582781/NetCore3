@@ -1,0 +1,9 @@
+D:\WorkSelf\RongKangBusiness\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.deps.json
+D:\WorkSelf\RongKangBusiness\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.dll
+D:\WorkSelf\RongKangBusiness\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.pdb
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.csprojAssemblyReference.cache
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.csproj.CoreCompileInputs.cache
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfoInputs.cache
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfo.cs
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.dll
+D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.pdb
