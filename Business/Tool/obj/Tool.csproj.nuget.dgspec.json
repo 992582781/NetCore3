@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj": {}
+    "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj": {}
   },
   "projects": {
-    "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj": {
+    "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj",
+        "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj",
         "projectName": "RongKang.Tool",
-        "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj",
+        "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSelf\\RongKangBusiness\\Tool\\obj\\",
+        "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\Tool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

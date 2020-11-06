@@ -96,17 +96,6 @@
           }
         }
       },
-      "DapperExtensions/1.6.3": {
-        "dependencies": {
-          "Dapper": "2.0.35"
-        },
-        "runtime": {
-          "lib/net45/DapperExtensions.dll": {
-            "assemblyVersion": "1.6.3.0",
-            "fileVersion": "1.6.3.0"
-          }
-        }
-      },
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.Configuration/3.1.4": {
         "dependencies": {
@@ -1224,7 +1213,6 @@
         "dependencies": {
           "Dapper": "2.0.35",
           "Dapper.Contrib": "2.0.35",
-          "DapperExtensions": "1.6.3",
           "Microsoft.Extensions.Configuration": "3.1.4",
           "MiniProfiler.AspNetCore": "4.1.0",
           "System.Data.SqlClient": "4.8.1"
@@ -1289,13 +1277,6 @@
       "sha512": "sha512-yVrsIV1OkdUZ8BGQbrO0EkthnPWtgs6TV2pfOtTC93G8y2BwZ0nnBJifJj+ICzN7c7COsBlVg6P6eYUwdwJj1Q==",
       "path": "dapper.contrib/2.0.35",
       "hashPath": "dapper.contrib.2.0.35.nupkg.sha512"
-    },
-    "DapperExtensions/1.6.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-KrmiZVbSu8NcjcdteDfuLKEES8ZA/HOHyDO4n5Gvc2CuSxulaRaEPofr0zCH7LM/yevi2gSnA5GlOGYj8Ayd6w==",
-      "path": "dapperextensions/1.6.3",
-      "hashPath": "dapperextensions.1.6.3.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

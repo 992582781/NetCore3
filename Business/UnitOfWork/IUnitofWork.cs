@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Data;
 
-namespace UnitOfWork
+namespace RongKang.UnitOfWork
 {
     /// <summary>
     /// 工作单元
     /// </summary>
-    public interface IUnitofWork : IDisposable
+    public interface IUnitOfWork : IDisposable
     {
         /// <summary>
         /// 事务

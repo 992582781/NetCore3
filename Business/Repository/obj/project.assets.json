@@ -90,18 +90,6 @@
           "lib/netstandard2.0/Dapper.Contrib.dll": {}
         }
       },
-      "DapperExtensions/1.6.3": {
-        "type": "package",
-        "dependencies": {
-          "Dapper": "1.12.0"
-        },
-        "compile": {
-          "lib/net45/DapperExtensions.dll": {}
-        },
-        "runtime": {
-          "lib/net45/DapperExtensions.dll": {}
-        }
-      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -2110,7 +2098,6 @@
         "dependencies": {
           "Dapper": "2.0.35",
           "Dapper.Contrib": "2.0.35",
-          "DapperExtensions": "1.6.3",
           "Microsoft.Extensions.Configuration": "3.1.4",
           "MiniProfiler.AspNetCore": "4.1.0",
           "System.Data.SqlClient": "4.8.1"
@@ -2224,21 +2211,6 @@
         "lib/net461/Dapper.Contrib.xml",
         "lib/netstandard2.0/Dapper.Contrib.dll",
         "lib/netstandard2.0/Dapper.Contrib.xml"
-      ]
-    },
-    "DapperExtensions/1.6.3": {
-      "sha512": "KrmiZVbSu8NcjcdteDfuLKEES8ZA/HOHyDO4n5Gvc2CuSxulaRaEPofr0zCH7LM/yevi2gSnA5GlOGYj8Ayd6w==",
-      "type": "package",
-      "path": "dapperextensions/1.6.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "dapperextensions.1.6.3.nupkg.sha512",
-        "dapperextensions.nuspec",
-        "lib/net40/DapperExtensions.dll",
-        "lib/net40/DapperExtensions.pdb",
-        "lib/net45/DapperExtensions.dll",
-        "lib/net45/DapperExtensions.pdb"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -7001,11 +6973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\Repository\\Repository.csproj",
       "projectName": "RongKang.Repository",
-      "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Repository\\Repository.csproj",
+      "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSelf\\RongKangBusiness\\Repository\\obj\\",
+      "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7026,11 +6998,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\WorkSelf\\RongKangBusiness\\IRepository\\IRepository.csproj": {
-              "projectPath": "D:\\WorkSelf\\RongKangBusiness\\IRepository\\IRepository.csproj"
+            "D:\\WorkSelf\\NetCore3\\Business\\IRepository\\IRepository.csproj": {
+              "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\IRepository\\IRepository.csproj"
             },
-            "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj": {
-              "projectPath": "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj"
+            "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj": {
+              "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj"
             }
           }
         }
@@ -7064,17 +7036,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“DapperExtensions 1.6.3”。此包可能与项目不完全兼容。",
-      "libraryId": "DapperExtensions",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

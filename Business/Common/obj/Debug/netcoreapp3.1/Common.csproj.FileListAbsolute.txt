@@ -6,3 +6,12 @@ D:\WorkSelf\RongKangBusiness\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoI
 D:\WorkSelf\RongKangBusiness\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 D:\WorkSelf\RongKangBusiness\Common\obj\Debug\netcoreapp3.1\RongKang.Common.dll
 D:\WorkSelf\RongKangBusiness\Common\obj\Debug\netcoreapp3.1\RongKang.Common.pdb
+D:\WorkSelf\NetCore3\Business\Common\bin\Debug\netcoreapp3.1\RongKang.Common.deps.json
+D:\WorkSelf\NetCore3\Business\Common\bin\Debug\netcoreapp3.1\RongKang.Common.dll
+D:\WorkSelf\NetCore3\Business\Common\bin\Debug\netcoreapp3.1\RongKang.Common.pdb
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\RongKang.Common.dll
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\RongKang.Common.pdb
+D:\WorkSelf\NetCore3\Business\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXY+gLnLX/wKXXgJ8MwRwAO/8RA82YfG6eQJBi8N5K0frVJuBv8PoSMBFqXv+ZupD06VCwbqniEYhv0TGrI2Ng==",
+  "dgSpecHash": "LnhAKDOSEwT2lvsEzYapvLAOVb3WB10lbg3eb4IsVHtN3OgayIp8Ck7kVrh4lfwN4hYBzpzReScAm1Y8bdsNMw==",
   "success": true,
-  "projectFilePath": "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj",
+  "projectFilePath": "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",

@@ -12,3 +12,17 @@ D:\WorkSelf\RongKangBusiness\Redis\obj\Debug\netcoreapp3.1\Redis.AssemblyInfo.cs
 D:\WorkSelf\RongKangBusiness\Redis\obj\Debug\netcoreapp3.1\Redis.csproj.CopyComplete
 D:\WorkSelf\RongKangBusiness\Redis\obj\Debug\netcoreapp3.1\RongKang.Redis.dll
 D:\WorkSelf\RongKangBusiness\Redis\obj\Debug\netcoreapp3.1\RongKang.Redis.pdb
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Redis.deps.json
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Redis.dll
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Redis.pdb
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Common.dll
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Tool.dll
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Common.pdb
+D:\WorkSelf\NetCore3\Business\Redis\bin\Debug\netcoreapp3.1\RongKang.Tool.pdb
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\Redis.csprojAssemblyReference.cache
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\Redis.csproj.CoreCompileInputs.cache
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\Redis.AssemblyInfoInputs.cache
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\Redis.AssemblyInfo.cs
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\Redis.csproj.CopyComplete
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\RongKang.Redis.dll
+D:\WorkSelf\NetCore3\Business\Redis\obj\Debug\netcoreapp3.1\RongKang.Redis.pdb

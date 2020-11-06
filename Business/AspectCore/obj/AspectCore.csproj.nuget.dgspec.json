@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSelf\\RongKangBusiness\\AspectCore\\AspectCore.csproj": {}
+    "D:\\WorkSelf\\NetCore3\\Business\\AspectCore\\AspectCore.csproj": {}
   },
   "projects": {
-    "D:\\WorkSelf\\RongKangBusiness\\AspectCore\\AspectCore.csproj": {
+    "D:\\WorkSelf\\NetCore3\\Business\\AspectCore\\AspectCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\AspectCore\\AspectCore.csproj",
+        "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\AspectCore\\AspectCore.csproj",
         "projectName": "RongKang.AspectCore",
-        "projectPath": "D:\\WorkSelf\\RongKangBusiness\\AspectCore\\AspectCore.csproj",
+        "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\AspectCore\\AspectCore.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSelf\\RongKangBusiness\\AspectCore\\obj\\",
+        "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\AspectCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj": {
-                "projectPath": "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj"
+              "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj": {
+                "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj": {
+    "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj",
+        "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj",
         "projectName": "RongKang.UnitOfWork",
-        "projectPath": "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\UnitOfWork.csproj",
+        "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSelf\\RongKangBusiness\\UnitOfWork\\obj\\",
+        "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -128,10 +128,6 @@
             "Dapper.Contrib": {
               "target": "Package",
               "version": "[2.0.35, )"
-            },
-            "DapperExtensions": {
-              "target": "Package",
-              "version": "[1.6.3, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",

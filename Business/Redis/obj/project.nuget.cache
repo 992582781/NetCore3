@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eRYFg6tN3wKzi7oKGXxxRCrZjoXO+hmcAB6DXQPG64WF0PBxxjX00+1mr16FgVGtKnX4LvoeKUwtGhVogGDEUA==",
+  "dgSpecHash": "YVsNqIMDt+o7Dr2eFIklfX2bwbtLwttx4fIYg5EjjPG7WsLCQBeAfdTCg98YSx2fsTq+NrF5acxm+CVqgey1QQ==",
   "success": true,
-  "projectFilePath": "D:\\WorkSelf\\RongKangBusiness\\Redis\\Redis.csproj",
+  "projectFilePath": "D:\\WorkSelf\\NetCore3\\Business\\Redis\\Redis.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

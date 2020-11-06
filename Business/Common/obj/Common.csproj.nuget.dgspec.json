@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj": {}
+    "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj": {
+    "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj",
         "projectName": "RongKang.Common",
-        "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj",
+        "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSelf\\RongKangBusiness\\Common\\obj\\",
+        "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -6,15 +6,15 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using UnitOfWork;
+using RongKang.UnitOfWork;
 
 namespace Repository
 {
     public class UserRepository : BaseRepository<User1>, IUserRepository
     {
-        private IUnitofWork _unitOfWork;
+        private IUnitOfWork _unitOfWork;
 
-        public UserRepository(IUnitofWork unitOfWork)
+        public UserRepository(IUnitOfWork unitOfWork)
         : base(unitOfWork)
         {
             this._unitOfWork = unitOfWork;//在构造函数中初始化类的dal属性

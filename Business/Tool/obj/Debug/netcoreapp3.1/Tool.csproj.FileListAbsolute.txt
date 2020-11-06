@@ -7,3 +7,11 @@ D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfoInput
 D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfo.cs
 D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.dll
 D:\WorkSelf\RongKangBusiness\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.pdb
+D:\WorkSelf\NetCore3\Business\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.deps.json
+D:\WorkSelf\NetCore3\Business\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.dll
+D:\WorkSelf\NetCore3\Business\Tool\bin\Debug\netcoreapp3.1\RongKang.Tool.pdb
+D:\WorkSelf\NetCore3\Business\Tool\obj\Debug\netcoreapp3.1\Tool.csproj.CoreCompileInputs.cache
+D:\WorkSelf\NetCore3\Business\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfoInputs.cache
+D:\WorkSelf\NetCore3\Business\Tool\obj\Debug\netcoreapp3.1\Tool.AssemblyInfo.cs
+D:\WorkSelf\NetCore3\Business\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.dll
+D:\WorkSelf\NetCore3\Business\Tool\obj\Debug\netcoreapp3.1\RongKang.Tool.pdb

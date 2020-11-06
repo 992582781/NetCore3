@@ -7,7 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
-using UnitOfWork;
+using RongKang.UnitOfWork;
 
 namespace RongKang.Repository
 {
@@ -17,9 +17,9 @@ namespace RongKang.Repository
     /// <typeparam name="T"></typeparam>
     public class BaseRepository<T> : IBaseRepository<T> where T : class
     {
-        private IUnitofWork _unitOfWork;
+        private IUnitOfWork _unitOfWork;
 
-        public BaseRepository(IUnitofWork unitOfWork)
+        public BaseRepository(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
@@ -184,39 +184,7 @@ namespace RongKang.Repository
 
 
 
-        /// <summary>
-        /// 批量插入功能
-        /// </summary>
-        public void InsertBatch(IEnumerable<T> entityList)
-        {
-            var tblName = string.Format("dbo.{0}", typeof(T).Name);
-            var tran = (SqlTransaction)_unitOfWork.DbTransaction;
-
-            using (var bulkCopy = new SqlBulkCopy(_unitOfWork.DbConnection as SqlConnection, SqlBulkCopyOptions.TableLock, tran))
-            {
-                bulkCopy.BatchSize = entityList.Count();
-                bulkCopy.DestinationTableName = tblName;
-                var table = new DataTable();
-                DapperExtensions.Sql.ISqlGenerator sqlGenerator = new DapperExtensions.Sql.SqlGeneratorImpl(new DapperExtensions.DapperExtensionsConfiguration());
-                var classMap = sqlGenerator.Configuration.GetMap<T>();
-                var props = classMap.Properties.Where(x => x.Ignored == false).ToArray();
-                foreach (var propertyInfo in props)
-                {
-                    bulkCopy.ColumnMappings.Add(propertyInfo.Name, propertyInfo.Name);
-                    table.Columns.Add(propertyInfo.Name, Nullable.GetUnderlyingType(propertyInfo.PropertyInfo.PropertyType) ?? propertyInfo.PropertyInfo.PropertyType);
-                }
-                var values = new object[props.Count()];
-                foreach (var itemm in entityList)
-                {
-                    for (var i = 0; i < values.Length; i++)
-                    {
-                        values[i] = props[i].PropertyInfo.GetValue(itemm, null);
-                    }
-                    table.Rows.Add(values);
-                }
-                bulkCopy.WriteToServer(table);
-            }
-        }
+       
 
 
         /// <summary>

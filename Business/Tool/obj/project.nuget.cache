@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwro1xmAApSHXa+6jp8JuG5hV6FMjACy/bp2WDT4SiZTUoZr6fUOL+7l40Yc9yEAsvyaewWjQWnZgwvU4ZymJw==",
+  "dgSpecHash": "U2cFwVSDrALizisZEWLHvCXvn/yWDcQ2ff9t4erGb8p0ThWB1EvOAmta12jmfffd2mHytTE514Jtbm0XHz990w==",
   "success": true,
-  "projectFilePath": "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj",
+  "projectFilePath": "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

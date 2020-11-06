@@ -7,12 +7,12 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Text;
 
-namespace UnitOfWork
+namespace RongKang.UnitOfWork
 {
     /// <summary>
     /// 工作单元
     /// </summary>
-    public class UnitofWork : IUnitofWork
+    public class UnitOfWork : IUnitOfWork
     {
         private bool _disposed;
         private IDbTransaction _trans = null;
@@ -27,7 +27,7 @@ namespace UnitOfWork
         /// </summary>
         public IDbConnection DbConnection { get { return _connection; } }
 
-        public UnitofWork(IConfiguration configuration)
+        public UnitOfWork(IConfiguration configuration)
         {
             var connectionString = configuration.GetConnectionString("SqlConnection");
             //_connection = new MySqlConnection(connectionString);//MySqlConnector
@@ -57,7 +57,7 @@ namespace UnitOfWork
             GC.SuppressFinalize(this);
         }
 
-        ~UnitofWork() => Dispose(false);
+        ~UnitOfWork() => Dispose(false);
 
         protected virtual void Dispose(bool disposing)
         {

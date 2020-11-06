@@ -4054,11 +4054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\Redis\\Redis.csproj",
+      "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\Redis\\Redis.csproj",
       "projectName": "RongKang.Redis",
-      "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Redis\\Redis.csproj",
+      "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Redis\\Redis.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSelf\\RongKangBusiness\\Redis\\obj\\",
+      "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\Redis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4079,11 +4079,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj": {
-              "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Common\\Common.csproj"
+            "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj": {
+              "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Common\\Common.csproj"
             },
-            "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj": {
-              "projectPath": "D:\\WorkSelf\\RongKangBusiness\\Tool\\Tool.csproj"
+            "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj": {
+              "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\Tool\\Tool.csproj"
             }
           }
         }

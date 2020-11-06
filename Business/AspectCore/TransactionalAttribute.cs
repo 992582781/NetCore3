@@ -1,7 +1,7 @@
 ﻿using AspectCore.DynamicProxy;
 using System;
 using System.Threading.Tasks;
-using UnitOfWork;
+using RongKang.UnitOfWork;
 
 namespace AspectCore
 {
@@ -10,13 +10,13 @@ namespace AspectCore
     /// </summary>
     public class TransactionalAttribute : AbstractInterceptorAttribute
     {
-        IUnitofWork _unitOfWork { get; set; }
+        IUnitOfWork _unitOfWork { get; set; }
 
         public async override Task Invoke(AspectContext context, AspectDelegate next)
         {
             try
             {
-                _unitOfWork = context.ServiceProvider.GetService(typeof(IUnitofWork)) as IUnitofWork;
+                _unitOfWork = context.ServiceProvider.GetService(typeof(IUnitOfWork)) as IUnitOfWork;
                 _unitOfWork.BeginTransaction();
                 await next(context);
                 _unitOfWork.Commit();

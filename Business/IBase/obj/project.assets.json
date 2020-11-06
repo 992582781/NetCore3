@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSelf\\RongKangBusiness\\IBase\\IBase.csproj",
+      "projectUniqueName": "D:\\WorkSelf\\NetCore3\\Business\\IBase\\IBase.csproj",
       "projectName": "RongKang.IBase",
-      "projectPath": "D:\\WorkSelf\\RongKangBusiness\\IBase\\IBase.csproj",
+      "projectPath": "D:\\WorkSelf\\NetCore3\\Business\\IBase\\IBase.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSelf\\RongKangBusiness\\IBase\\obj\\",
+      "outputPath": "D:\\WorkSelf\\NetCore3\\Business\\IBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
